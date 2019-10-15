@@ -1,0 +1,3 @@
+requirements for gcp:
+service account with big query user and metadataviewer roles.
+GCS Bucket temp location.

@@ -1,0 +1,10 @@
+.idea
+.githooks
+.github
+.git
+bin
+target
+build
+Dockerfile
+Makefile
+.gitignore
