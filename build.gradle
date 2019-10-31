@@ -63,8 +63,9 @@ dependencies {
 group = 'org.dav'
 version = '0.1'
 sourceCompatibility = '1.8'
+mainClassName='org.dav.Json'
 
 shadowJar {
-  zip64 true
-  mergeServiceFiles()
+    zip64 true
+    mergeServiceFiles()
 }
